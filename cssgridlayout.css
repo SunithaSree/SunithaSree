@@ -1,0 +1,17 @@
+p{
+    border: solid 15px;
+    padding: 20px 30px;
+    margin: 1em 2em 3em 4em;
+    background-color: bisque;
+}
+.d{
+    border: solid 15px;
+    padding: 20px 30px;
+    background-color: blueviolet;
+}
+footer{
+    border: solid 15px;
+    padding: 20px 30px;
+    margin-top: 20px;
+    background-color: blueviolet;   
+}
